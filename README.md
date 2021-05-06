@@ -9,6 +9,8 @@ Current Features:
 * MEM
 * SWAP
 * FS
+* Battery
+* Crypto Tracker
 * A random quote
 
-![demo](demo.png)
+![demo](nice-desktop6.png)
