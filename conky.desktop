@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=conky
+Exec=conky --daemonize --pause=5 -c ~/.config/conky/conky.conf && conky --daemonize -c ~/.config/conky/conky2.conf
+StartupNotify=false
+Terminal=false
